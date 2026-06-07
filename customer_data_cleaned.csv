@@ -1,0 +1,5 @@
+Customer_ID,Name,Gender,Date_of_Birth,City,Join_Date,Purchase_Amount,Email,Customer_Age,Purchase_Category
+1,John,male,12-05-1998,New York,10-01-2022,2500,john@gmail.com,28,Medium
+2,Alice,female,20-08-1995,Chicago,15-06-2021,5000,alice@gmail.com,30,High
+3,Bob,male,11-03-2000,Unknown,01-02-2023,1200,not_provided@email.com,26,Medium
+4,Sara,female,25-07-1997,Los Angeles,12-09-2020,7000,sara@gmail.com,28,High

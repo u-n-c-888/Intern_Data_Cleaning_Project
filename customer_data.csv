@@ -1,0 +1,7 @@
+Customer_ID,Name,Gender,Date_of_Birth,City,Join_Date,Purchase_Amount,Email
+1,John,M,12-05-1998,New York,10-01-2022,2500,john@gmail.com
+2,Alice,Female,20-08-1995,Chicago,15-06-2021,5000,alice@gmail.com
+3,Bob,male,11-03-2000,,01-02-2023,1200,
+4,Sara,F,25-07-1997,Los Angeles,12-09-2020,7000,sara@gmail.com
+4,Sara,F,25-07-1997,Los Angeles,12-09-2020,7000,sara@gmail.com
+5,David,Male,18-01-1993,Houston,01-12-2021,15000,david@gmail.com
